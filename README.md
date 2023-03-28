@@ -144,7 +144,4 @@
     />
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashrajillusion&show_icons=true&locale=en&layout=compact" alt="yashrajillusion" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashrajillusion&show_icons=true&locale=en" alt="yashrajillusion" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yashrajillusion&show_icons=true&locale=en" alt="yashrajillusion" /></p>
