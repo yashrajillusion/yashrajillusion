@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Fullstack Web-Development**
 
-- 👨‍💻 All of my projects are available at [https://yash-raj-app.vercel.app/](https://yash-raj-app.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://yash-raj.vercel.app/](https://yash-raj-app.vercel.app/)
 
 - 📫 How to reach me **yashrajillusion@gmail.com**
 
