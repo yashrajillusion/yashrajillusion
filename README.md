@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yashrajillusion@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Lhw6RFvXQACFIVdGAb2fQrDABixtCYnm/view](https://drive.google.com/file/d/1Lhw6RFvXQACFIVdGAb2fQrDABixtCYnm/view)
+- 📄 Know about my resume [https://drive.google.com/file/d/1Lhw6RFvXQACFIVdGAb2fQrDABixtCYnm/view](https://drive.google.com/file/d/1Lhw6RFvXQACFIVdGAb2fQrDABixtCYnm/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
